@@ -481,7 +481,7 @@ article .fa-solid {
   color: black;
 }
 
-project-btn {
+.project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
 }
@@ -493,6 +493,7 @@ project-btn {
 
 .project-tile {
   max-width: 350px;
+  min-width: 280px;
   height: 400px;
 }
 
