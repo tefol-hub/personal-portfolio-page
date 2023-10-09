@@ -192,7 +192,6 @@
   @media screen and (max-width: 400px) {
     section {
       margin: 0 auto;
-      border: 0.2px solid red;
     }
 
     #welcome-section {
